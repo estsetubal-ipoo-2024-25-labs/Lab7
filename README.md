@@ -1,4 +1,4 @@
-# Lab 7 - Composição em Java. 
+# Lab 7 - Composição de Classes 
 
 ## Aplicações Java 
 
