@@ -17,7 +17,7 @@
 
    - Considerando o diagrama de classes UML abaixo crie a definição das classes correspondentes em código Java.
    
-      ![](Diagrama_UML.png)
+      ![](https://github.com/estsetubal-ipoo-2024-25-labs/Lab7/blob/main/Diagrama_UML.png)
       
       - :warning: A classe `DiscountRate` só contém variáveis e métodos de classe. Fornece os descontos de produtos e serviços para cada tipo de cliente;
       
